@@ -1,0 +1,6 @@
+{
+  "name": "Gonzalez Car Wash",
+  "description": "Professional car washing service in Los Angeles. Call 213-840-8767 for a free estimate.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
